@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.CTuJIu02.js";const c=JSON.parse('{"title":"UI5 Tooling","description":"","frontmatter":{},"headers":[],"relativePath":"HomePage.md","filePath":"HomePage.md"}'),t={name:"HomePage.md"},e=n("",24),p=[e];function l(h,k,r,d,o,F){return a(),i("div",null,p)}const E=s(t,[["render",l]]);export{c as __pageData,E as default};
