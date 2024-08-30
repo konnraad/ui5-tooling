@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.B94ikmwp.js";const c=JSON.parse('{"title":"UI5 Tooling","description":"","frontmatter":{},"headers":[],"relativePath":"HomePage.md","filePath":"HomePage.md"}'),e={name:"HomePage.md"},t=n("",24),p=[t];function l(h,k,r,d,o,F){return a(),i("div",null,p)}const E=s(e,[["render",l]]);export{c as __pageData,E as default};

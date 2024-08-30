@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a4 as a}from"./chunks/framework.B94ikmwp.js";const m=JSON.parse('{"title":"UI5 Server","description":"","frontmatter":{},"headers":[],"relativePath":"Server.md","filePath":"Server.md"}'),o={name:"Server.md"},s=a("",36),d=[s];function i(n,c,l,h,p,u){return t(),r("div",null,d)}const v=e(o,[["render",i]]);export{m as __pageData,v as default};
