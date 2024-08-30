@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a4 as a}from"./chunks/framework.B94ikmwp.js";const m=JSON.parse('{"title":"UI5 FS","description":"","frontmatter":{},"headers":[],"relativePath":"FileSystem.md","filePath":"FileSystem.md"}'),i={name:"FileSystem.md"},o=a("",19),s=[o];function l(n,c,p,h,d,u){return t(),r("div",null,s)}const g=e(i,[["render",l]]);export{m as __pageData,g as default};
