@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a4 as t}from"./chunks/framework.B94ikmwp.js";const m=JSON.parse('{"title":"FAQ","description":"","frontmatter":{},"headers":[],"relativePath":"FAQ.md","filePath":"FAQ.md"}'),o={name:"FAQ.md"},n=t("",16),s=[n];function i(p,h,l,c,d,f){return r(),a("div",null,s)}const g=e(o,[["render",i]]);export{m as __pageData,g as default};
